@@ -1,0 +1,12 @@
+.card img{
+    width: 120px;
+    height: 91px;
+    margin-top: -50px;
+    margin-left: -5%;
+}
+.card span{
+    font-size: 19px;
+    color:red;
+    margin-left: 110px;
+    margin-top: -60px;
+}

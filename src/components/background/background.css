@@ -1,0 +1,29 @@
+.background-section {
+    position: relative;
+    width: 800px;
+    height: 400px; 
+    overflow: hidden;
+    margin-left: 47%;
+    margin-top: -25%;
+}
+.background-img {
+    width: 800px;
+    height: 400px;
+    object-fit: cover;
+    background-image: url('/slider1.jpg');
+}  
+  
+.container-letra {
+    position: absolute;
+    top: 34%; 
+    left: 1px; 
+    transform: translateY(-50%);
+    font-size: 310px; 
+    color:rgba(255, 255, 255, 0.453);
+    font-weight: bold;
+    
+}
+.background-section .container-letra .letra-q{
+    margin-left: -6px;
+}
+
